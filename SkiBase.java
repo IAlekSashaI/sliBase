@@ -10,31 +10,31 @@ package javaapplication1;
  * @author Alexander
  */
 public class SkiBase {
-    String name;
-    String adress;
-    int skiCount;
-    int freeSkiCount;
-    int snowBoardCount;
-    int freeSnowBoardCount;
-    int blackCount;
-    int greenCount;
-    int redCount;
-    int blueCount;
-    int hourPrice;
+   private String name;
+   private String adress;
+   private int skiCount;
+   private int freeSkiCount;
+   private int snowBoardCount;
+   private int freeSnowBoardCount;
+   private int blackCount;
+   private int greenCount;
+   private int redCount;
+   private int blueCount;
+   private int hourPrice;
     
-    boolean hasLightedSloves;
-    boolean hasTrainers;
-    boolean hasParking;
-    boolean hasCaffe;
+   private boolean hasLightedSloves;
+   private boolean hasTrainers;
+   private boolean hasParking;
+   private boolean hasCaffe;
+   private boolean hasHotel;
     
-    
-    int mondayPeopleCount;
-    int tuesdayPeopleCount;
-    int wednesdayPeopleCount;
-    int thursdayPeopleCount;
-    int fridayPeopleCount;
-    int satuedayPeopleCount;
-    int sundayPeopleCount;
+   private int mondayPeopleCount;
+   private int tuesdayPeopleCount;
+   private int wednesdayPeopleCount;
+   private int thursdayPeopleCount;
+   private int fridayPeopleCount;
+   private int satuedayPeopleCount;
+   private int sundayPeopleCount;
     
     
     
